@@ -1,2 +1,0 @@
-# WalkingSim
-WalkingSimProject
